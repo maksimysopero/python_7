@@ -1,4 +1,6 @@
-import random
+                                                                         #Генетический алгоритм
+import random            
+
 from deap import base, creator, tools
 
 #определение функции оценки
